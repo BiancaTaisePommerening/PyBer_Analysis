@@ -76,7 +76,7 @@ The following chart represents the Pyber Fare Summary where the lines show the T
 Urban cities have the highest amount of ride-share trips and consequently more drivers, which results in the largest amount of transactions happening there compared to Suburban and Rural cities.
 
 This can be interpreted by: the more dense and concentrated a city is, the highest demand and lower price it has.
-Where the more disparsed a city is, the demand is lower and price is high.
+Where the more dispersed a city is, the demand is lower and price is high.
 
 
 ## Summary
@@ -85,11 +85,10 @@ Business Recommendations:
 
 - In order to increase the % of Total Rides for Suburban and Rural cities, one recommendation is to lower the fare price, therefore increasing accessibility.
 
-- In order the increase the % of Total Drivers for the Suburban and Rural cities, the reccomendation is to hire more drivers, therefore increasing availability.
+- In order the increase the % of Total Drivers for the Suburban and Rural cities, the recommendation is to hire more drivers, therefore increasing availability.
 
-- In order to increase the % of Total Fares for the Suburban and Rural cities, the recommendation is also to lower the price fare and hire more drivers, as seen on the outcomes for the Urban cities, increasing accessibility and availabity brings a higher percentage of total transactions.
+- In order to increase the % of Total Fares for the Suburban and Rural cities, the recommendation is also to lower the price fare and hire more drivers, as seen on the outcomes for the Urban cities, increasing accessibility and availability brings a higher percentage of total transactions.
 
-- 
 
 
 
