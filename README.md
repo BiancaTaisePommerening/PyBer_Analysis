@@ -73,7 +73,7 @@ The following chart represents the Pyber Fare Summary where the lines show the T
 
 ## Conclusion 
 
-Urban cities have the highest amount of ride-share trips and consequently more drivers, which results in the largest amount of transactions happening there compared to Suburban and Rural cities. This also has a big impact on the price per ride on the rural cities.
+Urban cities have the highest amount of ride-share trips and consequently more drivers, which results in the largest amount of transactions happening there compared to Suburban and Rural cities.
 
 This can be interpreted by: the more dense and concentrated a city is, the highest demand and lower price it has.
 Where the more disparsed a city is, the demand is lower and price is high.
@@ -83,12 +83,14 @@ Where the more disparsed a city is, the demand is lower and price is high.
 
 Business Recommendations:
 
-- In order to increase the overall outcomes for suburban and rural cities perhaps the company could decrease the price per fare for these cities, until is becomes more accessible which would increase the demand for drivers and consequently more rides would be taken.
+- In order to increase the % of Total Rides for Suburban and Rural cities, one recommendation is to lower the fare price, therefore increasing accessibility.
 
-- Another recommendation is to promote the ride-share service on social media, local radio stations, and local shops in order to being noticed and get more clients. Where they could also share the benefits of using this service.
+- In order the increase the % of Total Drivers for the Suburban and Rural cities, the reccomendation is to hire more drivers, therefore increasing availability.
 
-- Promoting campaigns to hire more drivers.
+- In order to increase the % of Total Fares for the Suburban and Rural cities, the recommendation is also to lower the price fare and hire more drivers, as seen on the outcomes for the Urban cities, increasing accessibility and availabity brings a higher percentage of total transactions.
 
-- Specify main points where drivers could be located in the suburban and rural cities, like near grocery stores, shopping centers, terminals, etc in order to target the the clients on the places they may need the most. 
+- 
+
+
 
 
