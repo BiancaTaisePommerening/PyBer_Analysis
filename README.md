@@ -68,9 +68,9 @@ The following chart represents the Pyber Fare Summary where the lines show the T
 
 
 
-![Pyber_fare_summary](./Analysis/Pyber_fare_summary.png)
+![Pyber_fare_summary](./Analysis/PyBer_fare_summary.png)
 
-
+                
 ## Conclusion 
 
 Urban cities have the highest amount of ride-share trips and consequently more drivers, which results in the largest amount of transactions happening there compared to Suburban and Rural cities.
